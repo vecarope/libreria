@@ -16,7 +16,7 @@ Base Datos
 
 http://127.0.0.1:8000/admin
 
-Nombre usuario : Admin
+Nombre usuario : Admin  
 contraseña: 1234
 
 
