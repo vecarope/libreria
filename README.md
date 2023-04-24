@@ -22,11 +22,13 @@ contraseña: 1234
 
 ### Descarga e instalación proyecto 
 
-```git clone 
+```
+git clone 
 ```
 crear entorno virtual 
 
-```virtualenv env
+```
+virtualenv env
 source env/bin/active
 ```
 
